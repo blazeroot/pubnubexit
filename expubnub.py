@@ -38,7 +38,7 @@ my_listener = MySubscribeCallback()
 my_pubnub.add_listener(my_listener)
 my_pubnub.subscribe().channels(my_channel).execute()
 my_pubnub.publish().channel(my_channel).message(['hello', 'there', my_channel]).async(my_publish_callback)
-time.sleep(3)  # long enough for message to be received
+time.sleep(5)  # long enough for message to be received
 my_pubnub.remove_listener(my_listener)
 my_pubnub.unsubscribe().channels(my_channel).execute()
 my_pubnub.stop()

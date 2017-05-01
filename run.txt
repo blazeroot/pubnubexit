@@ -1,70 +1,70 @@
 
 *** start ***
-status.category 6 2017-04-30 19:12:10.347236
-my_publish_callback False 2017-04-30 19:12:12.306515
-message 1493604732 ['hello', 'there', 'my_channel_1234'] 2017-04-30 19:12:12.322648
-done! 2017-04-30 19:12:14.287922
-Sun Apr 30 19:14:01 PDT 2017
+status.category 6 2017-05-01 13:24:41.910334
+my_publish_callback False 2017-05-01 13:24:43.866248
+message 1493670283 ['hello', 'there', 'my_channel_1234'] 2017-05-01 13:24:43.867703
+done! 2017-05-01 13:24:45.851393
+Mon May  1 13:24:45 PDT 2017
 
 *** start ***
-status.category 6 2017-04-30 19:14:01.999707
-my_publish_callback False 2017-04-30 19:14:03.967981
-message 1493604843 ['hello', 'there', 'my_channel_1234'] 2017-04-30 19:14:03.988035
-done! 2017-04-30 19:14:05.949594
-Sun Apr 30 19:18:42 PDT 2017
+status.category 6 2017-05-01 13:24:46.280481
+my_publish_callback False 2017-05-01 13:24:48.324902
+message 1493670288 ['hello', 'there', 'my_channel_1234'] 2017-05-01 13:24:48.327378
+done! 2017-05-01 13:24:50.101754
+Mon May  1 13:24:50 PDT 2017
 
 *** start ***
-status.category 6 2017-04-30 19:18:42.459905
-my_publish_callback False 2017-04-30 19:18:44.383435
-message 1493605124 ['hello', 'there', 'my_channel_1234'] 2017-04-30 19:18:44.384863
-done! 2017-04-30 19:18:46.366910
-Sun Apr 30 19:23:22 PDT 2017
+status.category 6 2017-05-01 13:24:50.400931
+my_publish_callback False 2017-05-01 13:24:52.347484
+message 1493670292 ['hello', 'there', 'my_channel_1234'] 2017-05-01 13:24:52.348837
+done! 2017-05-01 13:24:54.333496
+Mon May  1 13:24:54 PDT 2017
 
 *** start ***
-status.category 6 2017-04-30 19:23:23.242005
-my_publish_callback False 2017-04-30 19:23:24.936317
-message 1493605404 ['hello', 'there', 'my_channel_1234'] 2017-04-30 19:23:24.951116
-done! 2017-04-30 19:23:26.910236
-Sun Apr 30 19:28:03 PDT 2017
+status.category 6 2017-05-01 13:24:54.614774
+my_publish_callback False 2017-05-01 13:24:56.589235
+message 1493670296 ['hello', 'there', 'my_channel_1234'] 2017-05-01 13:24:56.606178
+done! 2017-05-01 13:24:58.575868
+Mon May  1 13:24:58 PDT 2017
 
 *** start ***
-status.category 6 2017-04-30 19:28:03.774461
-my_publish_callback False 2017-04-30 19:28:05.730242
-message 1493605685 ['hello', 'there', 'my_channel_1234'] 2017-04-30 19:28:05.733545
-done! 2017-04-30 19:28:07.707533
-Sun Apr 30 19:32:44 PDT 2017
+status.category 6 2017-05-01 13:24:58.956304
+my_publish_callback False 2017-05-01 13:25:00.825418
+message 1493670300 ['hello', 'there', 'my_channel_1234'] 2017-05-01 13:25:00.829839
+done! 2017-05-01 13:25:02.802791
+Mon May  1 13:25:02 PDT 2017
 
 *** start ***
-status.category 6 2017-04-30 19:32:44.603185
-message 1493605966 ['hello', 'there', 'my_channel_1234'] 2017-04-30 19:32:46.543281
-my_publish_callback False 2017-04-30 19:32:46.544263
-done! 2017-04-30 19:32:48.529499
-Sun Apr 30 19:37:24 PDT 2017
+status.category 6 2017-05-01 13:25:03.140514
+my_publish_callback False 2017-05-01 13:25:05.068657
+message 1493670305 ['hello', 'there', 'my_channel_1234'] 2017-05-01 13:25:05.070200
+done! 2017-05-01 13:25:07.047129
+Mon May  1 13:25:07 PDT 2017
 
 *** start ***
-status.category 6 2017-04-30 19:37:25.332648
-message 1493606247 ['hello', 'there', 'my_channel_1234'] 2017-04-30 19:37:27.276061
-my_publish_callback False 2017-04-30 19:37:27.277040
-done! 2017-04-30 19:37:29.256038
-Sun Apr 30 19:42:05 PDT 2017
+status.category 6 2017-05-01 13:25:07.492600
+my_publish_callback False 2017-05-01 13:25:09.353814
+message 1493670309 ['hello', 'there', 'my_channel_1234'] 2017-05-01 13:25:09.372016
+done! 2017-05-01 13:25:11.293890
+Mon May  1 13:25:11 PDT 2017
 
 *** start ***
-status.category 6 2017-04-30 19:42:05.912353
-my_publish_callback False 2017-04-30 19:42:07.861683
-message 1493606527 ['hello', 'there', 'my_channel_1234'] 2017-04-30 19:42:07.863095
-done! 2017-04-30 19:42:09.836880
-Sun Apr 30 19:46:45 PDT 2017
+status.category 6 2017-05-01 13:25:11.608612
+my_publish_callback False 2017-05-01 13:25:13.553114
+message 1493670313 ['hello', 'there', 'my_channel_1234'] 2017-05-01 13:25:13.556203
+done! 2017-05-01 13:25:15.533261
+Mon May  1 13:25:15 PDT 2017
 
 *** start ***
-status.category 6 2017-04-30 19:46:46.346101
-my_publish_callback False 2017-04-30 19:46:48.281482
-message 1493606808 ['hello', 'there', 'my_channel_1234'] 2017-04-30 19:46:48.323945
-done! 2017-04-30 19:46:50.263061
-Sun Apr 30 19:51:26 PDT 2017
+status.category 6 2017-05-01 13:25:15.836262
+my_publish_callback False 2017-05-01 13:25:17.874420
+message 1493670317 ['hello', 'there', 'my_channel_1234'] 2017-05-01 13:25:17.874737
+done! 2017-05-01 13:25:19.786093
+Mon May  1 13:25:19 PDT 2017
 
 *** start ***
-status.category 6 2017-04-30 19:51:26.812269
-my_publish_callback False 2017-04-30 19:51:28.760244
-message 1493607088 ['hello', 'there', 'my_channel_1234'] 2017-04-30 19:51:28.763277
-done! 2017-04-30 19:51:30.742678
-Sun Apr 30 19:56:07 PDT 2017
+status.category 6 2017-05-01 13:25:20.073796
+my_publish_callback False 2017-05-01 13:25:22.047220
+message 1493670322 ['hello', 'there', 'my_channel_1234'] 2017-05-01 13:25:22.051211
+done! 2017-05-01 13:25:24.028087
+Mon May  1 13:25:24 PDT 2017

@@ -68,3 +68,19 @@ my_publish_callback False 2017-05-01 13:25:22.047220
 message 1493670322 ['hello', 'there', 'my_channel_1234'] 2017-05-01 13:25:22.051211
 done! 2017-05-01 13:25:24.028087
 Mon May  1 13:25:24 PDT 2017
+()
+*** start ***
+*** SDK VERSION 4.0.11@2.7.13 ***
+('status.category', 6, datetime.datetime(2017, 5, 5, 13, 26, 22, 852529))
+('my_publish_callback', False, datetime.datetime(2017, 5, 5, 13, 26, 24, 804662))
+('message', 1493983584, [u'hello', u'there', u'my_channel_1234'], datetime.datetime(2017, 5, 5, 13, 26, 24, 815562))
+('done!', datetime.datetime(2017, 5, 5, 13, 26, 26, 756006))
+Fri May  5 13:26:26 CEST 2017
+
+*** start ***
+*** SDK VERSION 4.0.11@3.6.0 ***
+status.category 6 2017-05-05 13:27:01.169327
+my_publish_callback False 2017-05-05 13:27:03.116630
+message 1493983623 ['hello', 'there', 'my_channel_1234'] 2017-05-05 13:27:03.117849
+done! 2017-05-05 13:27:05.066193
+Fri May  5 13:27:05 CEST 2017
